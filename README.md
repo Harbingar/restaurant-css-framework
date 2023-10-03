@@ -18,7 +18,7 @@ Octobre 2023 | Bruxelles - Belgique
 
 Quelques images de la maquettes. 
 Principalement réalisée pour visualiser un résultat qui mélange mon style et les requêtes demandées.
-![shema](img/shema.png.png)
+![shema](img/shema.png)
 Potentiellement différent du rendu final. 
 
 ## Progression
