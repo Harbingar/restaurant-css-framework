@@ -19,11 +19,11 @@ Octobre 2023 | Bruxelles - Belgique
 Quelques images de la maquettes. 
 Principalement réalisée pour visualiser un résultat qui mélange mon style et les requêtes demandées.
 ![shema](img/shema.png)
-Potentiellement différent du rendu final. 
+Potentiellement différent du rendu final.
 
 ## Progression
 
-En cours - Validation des objectifs pré-dévellopement
+En cours - Corrections de bugs et ajouts de détails
 
 ## Contenu
 
@@ -35,6 +35,10 @@ En cours - Validation des objectifs pré-dévellopement
 - Contact (Contact de différents types pour les clients)
 
 Les 5 pages contiennent deux parties commune, le header ainsi que le footer qui intègrent le menu de navigation entre les pages ainsi que les mentions copyright et crédits d'auteurs.
+
+#### Update
+
+4 pages ont été ajoutés à la section gallerie pour séparés les différents produits du restaurants par types (entrées, plâts, desserts et boissons)
 
 ## Languages utilisés
 
