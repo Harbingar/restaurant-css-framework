@@ -6,6 +6,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <title>Pictures</title>
     <style>
+        main{
+            display: flex;
+            justify-content: center;
+        }
         li{
             text-align: center;
         }
@@ -52,55 +56,58 @@
                 </div>
             </nav>
         </header>
-        <main class="row col-12 justify-content-center">
-            <div class="m-3">
-                <nav aria-label="Page navigation">
-                    <ul class="pagination justify-content-center">
-                      <li class="page-item"><a class="page-link" href="pictures-pages/entrees.html">Entrées</a></li>
-                      <li class="page-item"><a class="page-link" href="pictures-pages/plats.html">Plâts</a></li>
-                      <li class="page-item"><a class="page-link" href="pictures-pages/desserts.html">Desserts</a></li>
-                      <li class="page-item"><a class="page-link" href="pictures-pages/boissons.html">Boissons</a></li>
-                    </ul>
-                </nav>
+        <main>
+            <div class="row col-12 justify-content-center">
+                <div class="m-3">
+                    <nav aria-label="Page navigation">
+                        <ul class="pagination justify-content-center">
+                          <li class="page-item"><a class="page-link" href="pictures-pages/entrees.html">Entrées</a></li>
+                          <li class="page-item"><a class="page-link" href="pictures-pages/plats.html">Plâts</a></li>
+                          <li class="page-item"><a class="page-link" href="pictures-pages/desserts.html">Desserts</a></li>
+                          <li class="page-item"><a class="page-link" href="pictures-pages/boissons.html">Boissons</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-10 row justify-content-around">
+                    <div class="col-10 col-md-5 mb-3">
+                        <div class="card text-center mb-3">
+                            <div class="card-body">
+                              <h5 class="card-title">Entrées</h5>
+                              <p class="card-text">Découvrez notre galleries d'Entrées juste ici.</p>
+                              <a href="pictures-pages/entrees.html" class="btn btn-success">Voir les entrées</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-10 col-md-5 mb-3">
+                        <div class="card text-center mb-3">
+                            <div class="card-body">
+                              <h5 class="card-title">Plâts</h5>
+                              <p class="card-text">Découvrez la galleries de nos plâts juste ici.</p>
+                              <a href="pictures-pages/plats.html" class="btn btn-info">Voir les plâts</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-10 col-md-5 mb-3">
+                        <div class="card text-center mb-3">
+                            <div class="card-body">
+                              <h5 class="card-title">Desserts</h5>
+                              <p class="card-text">Découvrez la galleries de tout nos desserts juste ici.</p>
+                              <a href="pictures-pages/desserts.html" class="btn btn-warning">Voir les desserts</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-10 col-md-5 mb-3">
+                        <div class="card text-center mb-3">
+                            <div class="card-body">
+                              <h5 class="card-title">Boissons</h5>
+                              <p class="card-text">Découvrez notre sélections de boissons juste ici.</p>
+                              <a href="pictures-pages/boissons.html" class="btn btn-danger">Voir les boissons</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-10 row justify-content-around">
-                <div class="col-10 col-md-5 mb-3">
-                    <div class="card text-center mb-3">
-                        <div class="card-body">
-                          <h5 class="card-title">Entrées</h5>
-                          <p class="card-text">Découvrez notre galleries d'Entrées juste ici.</p>
-                          <a href="pictures-pages/entrees.html" class="btn btn-success">Voir les entrées</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-10 col-md-5 mb-3">
-                    <div class="card text-center mb-3">
-                        <div class="card-body">
-                          <h5 class="card-title">Plâts</h5>
-                          <p class="card-text">Découvrez la galleries de nos plâts juste ici.</p>
-                          <a href="pictures-pages/plats.html" class="btn btn-info">Voir les plâts</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-10 col-md-5 mb-3">
-                    <div class="card text-center mb-3">
-                        <div class="card-body">
-                          <h5 class="card-title">Desserts</h5>
-                          <p class="card-text">Découvrez la galleries de tout nos desserts juste ici.</p>
-                          <a href="pictures-pages/desserts.html" class="btn btn-warning">Voir les desserts</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-10 col-md-5 mb-3">
-                    <div class="card text-center mb-3">
-                        <div class="card-body">
-                          <h5 class="card-title">Boissons</h5>
-                          <p class="card-text">Découvrez notre sélections de boissons juste ici.</p>
-                          <a href="pictures-pages/boissons.html" class="btn btn-danger">Voir les boissons</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </main>
         <footer>
             <div class="bg-secondary text-light justify-content-center">
