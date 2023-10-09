@@ -44,6 +44,8 @@ Les 5 pages contiennent deux parties commune, le header ainsi que le footer qui 
 
 4 pages ont été ajoutés à la section gallerie pour séparés les différents produits du restaurants par types (entrées, plâts, desserts et boissons)
 
+Ajouts de Pop Up sur les pages index et contact. Une pour accèpter les potentiels cookies du site (index.html). L'autre pour informer de l'envoie du mail (contact.html)
+
 ## Languages utilisés
 
 - HTML5
