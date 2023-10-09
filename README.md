@@ -2,7 +2,7 @@
 
 Bienvenue sur mon projet de restaurant fictif. Vous trouverez sur le lien ci dessous mon projet réaliser durant toute cette semaine. J'ai principalement utilisé Bootstrap pour arriver à cette fin.
 
-[Lien vers ma page](https://harbingar.github.io/error404/)
+[Lien vers ma page](https://harbingar.github.io/restaurant-css-framework/index.html)
 
 ## Objectif
 
@@ -21,9 +21,13 @@ Principalement réalisée pour visualiser un résultat qui mélange mon style et
 ![shema](img/shema.png)
 Potentiellement différent du rendu final.
 
+#### Update
+
+Pas mal de petits changements sur le rendu final. Dans l'ensemble les blocs d'éléments ont été respectés. Cependant j'ai dû revoir d'autres blocs pour la version mobile ainsi que pour les modules Bootstrap.
+
 ## Progression
 
-En cours - Corrections de bugs et ajouts de détails
+En cours - Finalisation des requêtes demandées. Ajouts de style
 
 ## Contenu
 
