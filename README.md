@@ -9,6 +9,14 @@ Bienvenue sur mon projet de restaurant fictif. Vous trouverez sur le lien ci des
 Me familiariser avec l'outil Bootstrap et son fonctionnement.
 Produire un premier projet fictif static en dévellopement web.
 
+## Fonctionnalités
+
+1. Full Responsive (pour mobile et moyens écrans)
+2. 5 pages principale utilisant toute un élément du Bootstrap avec des attributs différents.
+3. Un menu utilisant un script bootstrap avec une déroulement.
+4. Deux Pop Up générée à la suite d'une action sur un bouton.
+
+
 ## Localisation
 
 Projet distribué et complété durant la formation BeCode de Junior Developper.
@@ -27,24 +35,26 @@ Pas mal de petits changements sur le rendu final. Dans l'ensemble les blocs d'é
 
 ## Progression
 
-En cours - Finalisation des requêtes demandées. Ajouts de style
+Terminé - Stade final atteint. L'ensemble des consignes demandées sont présentes et fonctionelles. 
 
 ## Contenu
 
 5 sections :
 - Welcome (page d'accueil)
-- Menu (Page principale)
+- Menu (Page du menu)
 - Pictures (Page de photos des produits)
-- Restaurant (Localité et horraires)
+- Restaurant (Informations du restaurant)
 - Contact (Contact de différents types pour les clients)
 
 Les 5 pages contiennent deux parties commune, le header ainsi que le footer qui intègrent le menu de navigation entre les pages ainsi que les mentions copyright et crédits d'auteurs.
 
 #### Update
 
-4 pages ont été ajoutés à la section gallerie pour séparés les différents produits du restaurants par types (entrées, plâts, desserts et boissons)
+4 pages ont été ajoutés à la section gallerie pour séparés les différents produits du restaurants par types (entrées, plâts, desserts et boissons).
 
-Ajouts de Pop Up sur les pages index et contact. Une pour accèpter les potentiels cookies du site (index.html). L'autre pour informer de l'envoie du mail (contact.html)
+Ajouts de Pop Up sur les pages index et contact. Une pour accèpter les potentiels cookies du site (index.html). L'autre pour informer de l'envoie du mail (contact.html).
+
+
 
 ## Languages utilisés
 
