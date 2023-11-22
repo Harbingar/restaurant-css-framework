@@ -54,13 +54,16 @@ Les 5 pages contiennent deux parties commune, le header ainsi que le footer qui 
 
 Ajouts de Pop Up sur les pages index et contact. Une pour accèpter les potentiels cookies du site (index.html). L'autre pour informer de l'envoie du mail (contact.html).
 
+Ajout d'un formulaire de livre d'or pour les clients.
 
 
 ## Languages utilisés
 
 - HTML5
 - CSS
-- Framework Bootstrap 
+- Framework Bootstrap
+- PHP
+- MySQL
 
 
 
