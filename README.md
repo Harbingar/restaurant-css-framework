@@ -32,10 +32,13 @@ Potentiellement différent du rendu final.
 #### Update
 
 Pas mal de petits changements sur le rendu final. Dans l'ensemble les blocs d'éléments ont été respectés. Cependant j'ai dû revoir d'autres blocs pour la version mobile ainsi que pour les modules Bootstrap.
+Ajout d'une page du Livre d'or.
+Ajouts de requêtes  SQL, d'un server et de pages.
 
 ## Progression
 
 Terminé - Stade final atteint. L'ensemble des consignes demandées sont présentes et fonctionelles. 
+En Cours - Conception de la DB 
 
 ## Contenu
 
